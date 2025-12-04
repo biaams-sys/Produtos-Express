@@ -1,0 +1,409 @@
+type: collection.insomnia.rest/5.0
+schema_version: "5.1"
+name: Scratch Pad
+meta:
+  id: wrk_scratchpad
+  created: 1755785043616
+  modified: 1755785043616
+  description: ""
+collection:
+  - name: biblioteca
+    meta:
+      id: fld_8fb3e4f3cf994d0893f7df09706d20d6
+      created: 1755785920527
+      modified: 1755785920527
+      sortKey: -1755785920527
+      description: ""
+    children:
+      - name: usuarios
+        meta:
+          id: fld_af074ecdf6ff48ffacc9d318e10aa470
+          created: 1755785948269
+          modified: 1755785948269
+          sortKey: -1755785948269
+          description: ""
+      - name: livros
+        meta:
+          id: fld_450ba25281714e4fb02bb6f8480e1ca1
+          created: 1756391089218
+          modified: 1756391089218
+          sortKey: -1756391089218
+          description: ""
+  - name: escola
+    meta:
+      id: fld_67a983b3e7c34323a78c0fe2d130e2eb
+      created: 1756990594104
+      modified: 1756990594104
+      sortKey: -1756990594104
+      description: ""
+    children:
+      - name: professores
+        meta:
+          id: fld_0a21519558564181981d93f63ec67801
+          created: 1756990615267
+          modified: 1756990615267
+          sortKey: -1756990615267
+          description: ""
+      - name: disciplinas
+        meta:
+          id: fld_44f055869b524226b3c94024484dcb12
+          created: 1756991338579
+          modified: 1756991392803
+          sortKey: -1756991338579
+          description: ""
+      - name: turmas
+        meta:
+          id: fld_b934d099909d4bd397089442e75aa6c3
+          created: 1756991935606
+          modified: 1756993417732
+          sortKey: -1756991935606
+          description: ""
+      - name: possui
+        meta:
+          id: fld_3d346b4f95f648cf96b4a9b09e5fae6a
+          created: 1756993671430
+          modified: 1756993671430
+          sortKey: -1756993671430
+          description: ""
+  - name: loja
+    meta:
+      id: fld_35cfc4cea240449d931b21e6cd8568e9
+      created: 1758201746430
+      modified: 1758201746430
+      sortKey: -1758201746430
+      description: ""
+    children:
+      - name: clientes
+        meta:
+          id: fld_58174779a9464c23b8c67b17f4774845
+          created: 1758201940387
+          modified: 1758201940387
+          sortKey: -1758201940387
+          description: ""
+      - name: produtos
+        meta:
+          id: fld_549356a070bf4e5ca3640462fb9ee87f
+          created: 1758201970460
+          modified: 1758201970460
+          sortKey: -1758201970460
+          description: ""
+      - name: pedidos
+        meta:
+          id: fld_15279de22fe846d684dabef47ada97e9
+          created: 1758201980883
+          modified: 1758201980883
+          sortKey: -1758201980883
+          description: ""
+  - name: locadora
+    meta:
+      id: fld_ec69615c394b44b5a970ab2a0493ac47
+      created: 1758807716953
+      modified: 1758807716953
+      sortKey: -1758807716953
+      description: ""
+    children:
+      - name: filmes
+        meta:
+          id: fld_caf2191186df4c65a9efca6556fb5bf8
+          created: 1759403098426
+          modified: 1759403098426
+          sortKey: -1759403098426
+          description: ""
+      - name: clientes
+        meta:
+          id: fld_984cfe76bd364484965bdb9f57d161e0
+          created: 1759403124844
+          modified: 1759403124844
+          sortKey: -1759403124844
+          description: ""
+      - name: locacoes
+        meta:
+          id: fld_86444f393ef94b859e14df81d39da3e6
+          created: 1759406407523
+          modified: 1759406407523
+          sortKey: -1759406407523
+          description: ""
+  - name: cons_dent
+    meta:
+      id: fld_ea4822675cb84cfa814d10ecc8d7cb25
+      created: 1760029624955
+      modified: 1760029624955
+      sortKey: -1760029624955
+      description: ""
+    children:
+      - name: usuarios
+        meta:
+          id: fld_b3e8b530b4b04c1597b8734d9b614fe7
+          created: 1760029660867
+          modified: 1760029660867
+          sortKey: -1760029660867
+          description: ""
+      - name: medicos
+        meta:
+          id: fld_c858e4c05e0848119b415a242ee0fc58
+          created: 1760029668552
+          modified: 1760029668552
+          sortKey: -1760029668552
+          description: ""
+  - name: teste
+    meta:
+      id: fld_cb9d6125168f4a3c965aabc698d56b5d
+      created: 1760986890481
+      modified: 1760986890481
+      sortKey: -1760986890482
+      description: ""
+  - name: clinicavida+
+    meta:
+      id: fld_b628b644693245a1a6910054df4253db
+      created: 1761582476422
+      modified: 1761582476422
+      sortKey: -1761582476422
+      description: ""
+    children:
+      - name: medicos
+        meta:
+          id: fld_ec9351b7aa804eb5b6b52c61d2a5688d
+          created: 1761592520176
+          modified: 1761592520176
+          sortKey: -1761592520176
+          description: ""
+      - name: consultas
+        meta:
+          id: fld_af93a1398af9448e8076dcdcad0dd277
+          created: 1761822017667
+          modified: 1761822017667
+          sortKey: -1761822017667
+          description: ""
+      - name: pacientes
+        meta:
+          id: fld_80833b9014264f93b33b39c622e18d0b
+          created: 1761822029944
+          modified: 1761822029944
+          sortKey: -1761822029944
+          description: ""
+  - name: PetFeliz
+    meta:
+      id: fld_c2870a7b541844bcb502951486355d7a
+      created: 1762799327966
+      modified: 1762799327966
+      sortKey: -1762799327967
+      description: ""
+    children:
+      - name: Tutor
+        meta:
+          id: fld_870fc6318b634e45b065434b95fb22b9
+          created: 1762801741354
+          modified: 1762801741354
+          sortKey: -1762801741354
+          description: ""
+      - name: Pet
+        meta:
+          id: fld_096863c4683d456a965f918f6a88a794
+          created: 1762803817850
+          modified: 1762803817850
+          sortKey: -1762803817850
+          description: ""
+      - name: veterinario
+        meta:
+          id: fld_bbcdda88bb664a0590919b17585a8156
+          created: 1762804929413
+          modified: 1762804953165
+          sortKey: -1762804929413
+          description: ""
+      - name: consulta
+        meta:
+          id: fld_ed23b46959ff4979a0c606bb7652a323
+          created: 1762805538431
+          modified: 1762805538431
+          sortKey: -1762805538431
+          description: ""
+      - name: relatorios
+        meta:
+          id: fld_28c4aa1d39424ea8836d20042a81ef08
+          created: 1763034462025
+          modified: 1763034462025
+          sortKey: -1763034462025
+          description: ""
+  - name: locação edfisica
+    meta:
+      id: fld_968f8c012b7e444a843a8a3018cc484f
+      created: 1764250783596
+      modified: 1764250783596
+      sortKey: -1764250783596
+      description: ""
+    children:
+      - name: equipamentos
+        meta:
+          id: fld_a79e077a15554f29ae6972ceef56d1dc
+          created: 1764250889505
+          modified: 1764250889505
+          sortKey: -1764250889505
+          description: ""
+      - name: alunos
+        meta:
+          id: fld_04cad647833c4eb5a1c4676e269b7d63
+          created: 1764252240700
+          modified: 1764252240700
+          sortKey: -1764252240700
+          description: ""
+      - name: locações
+        meta:
+          id: fld_bc4a6b4ead204f0a897ff3c734ed6abc
+          created: 1764253095276
+          modified: 1764253095276
+          sortKey: -1764253095276
+          description: ""
+  - name: produtos express
+    meta:
+      id: fld_b3003c10b4144af8966d44c08e8a04a4
+      created: 1764593444268
+      modified: 1764593444268
+      sortKey: -1764593444268
+      description: ""
+    children:
+      - url: http://localhost:3000/produtos/cadastrar
+        name: cadastrar produto
+        meta:
+          id: req_45c45c910c2144a9b8a2233eb64941f2
+          created: 1764593505278
+          modified: 1764593994560
+          isPrivate: false
+          description: ""
+          sortKey: -1764593505278
+        method: POST
+        body:
+          mimeType: application/json
+          text: |-
+            {
+            	"nome": "Escova",
+            	"valor": 
+            }
+        headers:
+          - name: Content-Type
+            value: application/json
+          - name: User-Agent
+            value: insomnia/12.1.0
+            description: ""
+            disabled: false
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+      - url: http://localhost:3000/produtos/listar
+        name: listar produtos
+        meta:
+          id: req_31b17dfff9664b1cb6ac626cfc66af13
+          created: 1764593654038
+          modified: 1764593682949
+          isPrivate: false
+          description: ""
+          sortKey: -1764593654038
+        method: GET
+        headers:
+          - name: User-Agent
+            value: insomnia/12.1.0
+            description: ""
+            disabled: false
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+      - url: http://localhost:3000/produtos/2
+        name: buscar produtos
+        meta:
+          id: req_ed5460d834244b46b5e210f0b2037501
+          created: 1764593693212
+          modified: 1764593751317
+          isPrivate: false
+          description: ""
+          sortKey: -1764593693212
+        method: GET
+        headers:
+          - name: User-Agent
+            value: insomnia/12.1.0
+            description: ""
+            disabled: false
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+      - url: http://localhost:3000/produtos/atualizar/2
+        name: atualizar produtos
+        meta:
+          id: req_625c118f5252433a83121e543f504e9b
+          created: 1764593762921
+          modified: 1764594008603
+          isPrivate: false
+          description: ""
+          sortKey: -1764593762921
+        method: PUT
+        body:
+          mimeType: application/json
+          text: |-
+            {
+            	"nome": "",
+            	"valor": 70.90
+            }
+        headers:
+          - name: Content-Type
+            value: application/json
+          - name: User-Agent
+            value: insomnia/12.1.0
+            description: ""
+            disabled: false
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+      - url: http://localhost:3000/produtos/excluir/3
+        name: excluir produtos
+        meta:
+          id: req_4fbd5fed17494d7883233fcb2da5bad7
+          created: 1764593841728
+          modified: 1764593869804
+          isPrivate: false
+          description: ""
+          sortKey: -1764593841728
+        method: DELETE
+        headers:
+          - name: User-Agent
+            value: insomnia/12.1.0
+            description: ""
+            disabled: false
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+cookieJar:
+  name: Default Jar
+  meta:
+    id: jar_99d30891da4bdcebc63947a8fc17f076de878684
+    created: 1755785103075
+    modified: 1755785103075
+environments:
+  name: Base Environment
+  meta:
+    id: env_99d30891da4bdcebc63947a8fc17f076de878684
+    created: 1755785102899
+    modified: 1755785102899
+    isPrivate: false

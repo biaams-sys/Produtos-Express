@@ -1,0 +1,12 @@
+Produtos Express
+
+CREATE DATABASE produtos_express;
+USE produtos_express;
+CREATE TABLE produtos (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(50) NOT NULL,
+    valor FLOAT(5,2) NOT NULL
+);
+
+INSERT INTO produtos (nome, valor)
+VALUES ('Camiseta', 49.90);
